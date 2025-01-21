@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+#  <>
+#             <div className="w-full h-screen bg-black flex items-center justify-center">
+#                 <div className="w-[400px] h-[750px] rounded-md shadow-md overflow-hidden bg-white">
+
+
+
+
+
+#                 </div>
+#             </div>
+#         </>
